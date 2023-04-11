@@ -19,6 +19,6 @@ Finally, run the following command.
 ```
 npm start
 ```
-The app will open automatically in your browser. If the app didn't open automatically, open http://localhost:3000 to view it in your browser.
+The app opens automatically in your browser. If the app doesn't open automatically, open http://localhost:3000 to view it in your browser.
 
-The page will reload automatically when you make changes.
+The page reloads automatically when you make changes.
