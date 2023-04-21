@@ -65,7 +65,7 @@ export default function App() {
   }
 
   if(searchInputTitle) {
-    filteredGames = games.filter(game => game.title.toLowerCase().includes(inputTitle.toLowerCase()));
+    filteredGames = filteredGames.filter(filteredGames => filteredGames.title.toLowerCase().includes(inputTitle.toLowerCase()));
   }
 
   return (
